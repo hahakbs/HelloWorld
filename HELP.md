@@ -6,7 +6,7 @@ The following was discovered as part of building this project:
 # Getting Started
 
 ### Reference Documentation
-For further reference, please consider the following sections:
+For further reference1, please consider the following sections:
 
 * [Official Gradle documentation](https://docs.gradle.org)
 * [Spring Boot Gradle Plugin Reference Guide](https://docs.spring.io/spring-boot/3.3.5/gradle-plugin)
